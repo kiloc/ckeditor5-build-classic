@@ -74,8 +74,7 @@ ClassicEditor.defaultConfig = {
 			'mediaEmbed',
 			'undo',
 			'redo',
-		    'MathType',
-		    'ChemType',
+		    'MathType'
 		]
 	},
 	image: {
